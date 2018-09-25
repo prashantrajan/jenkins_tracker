@@ -9,7 +9,7 @@ integrates [Jenkins CI](http://jenkins-ci.org/) build information with [Pivotal 
 
 This is an example of a successful build integration:
 
-![Jenkins Post Build Action Screenshot](https://raw.github.com/bitium/static-assets/master/jenkins_tracker/images/tracker_comment_2.jpg)
+![Jenkins Post Build Action Screenshot](https://raw.githubusercontent.com/prashantrajan/static_assets/master/jenkins_tracker/images/tracker_comment_2.jpg)
 
 
 ## Maintenance Note
@@ -65,7 +65,7 @@ $ bundle exec jenkins_tracker integrate --tracker-token ABC123456 --tracker-proj
 # => Successfully integrated Jenkins Job $JOB_NAME with Pivotal Tracker Project #123456
 ```
     
-![Jenkins Post Build Action Screenshot](https://raw.github.com/bitium/static-assets/master/jenkins_tracker/images/jenkins_post_build_action_2.jpg)
+![Jenkins Post Build Action Screenshot](https://raw.githubusercontent.com/prashantrajan/static_assets/master/jenkins_tracker/images/jenkins_post_build_action_2.jpg)
 
 
 ## Contributing
